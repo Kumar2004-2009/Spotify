@@ -1,7 +1,11 @@
 # Spotify Clone (Frontend)
 
 ## Overview
-A music streaming platform built using React, Vite, and Tailwind CSS, inspired by Spotify. Currently, only the frontend is developed, with a functional player and controls.
+A music streaming platform built using React, Vite, and Tailwind CSS, inspired by Spotify. Currently, only the frontend is developed, with a functional player and controls.</br>
+</br>
+
+https://github.com/user-attachments/assets/5c25fe7b-01f7-4c1a-ac7f-22852bb1445a
+
 
 ## Tech Stack
 - Frontend Framework: React
@@ -17,7 +21,7 @@ A music streaming platform built using React, Vite, and Tailwind CSS, inspired b
 ## Getting Started
 
 To run the project locally, follow these steps:
-1. Clone the repository: git clone (link unavailable)
+1. Clone the repository: git clone https://github.com/Kumar2004-2009/Spotify.git
 2. Install dependencies: npm install
 3. Start the development server: npm run dev
 
